@@ -10,8 +10,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/matheusmqm"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=0F172A" alt="LinkedIn" /></a>
-<a href="mailto:matheus.mqm@outlook.com"><img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/matheusmqm"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=06B6D4&labelColor=0A66C2" alt="LinkedIn" /></a> <a href="mailto:matheus.mqm@outlook.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0F172A?style=for-the-badge&logo=microsoftoutlook&logoColor=06B6D4&labelColor=0078D4" alt="Email" /></a>
 
 </div>
 
