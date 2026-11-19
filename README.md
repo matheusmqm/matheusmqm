@@ -2,7 +2,7 @@
 
 <h2>Matheus, Software Engineer (Backend & Data)</h2>
 
-<sub>📍 Brazil &nbsp;·&nbsp; 🎓 Computer Engineer @ IFCE</sub>
+<h3>📍 Brazil &nbsp;·&nbsp; 🎓 Computer Engineer @ IFCE</h3>
 
 <br/><br/>
 
@@ -54,7 +54,8 @@ I built backend automations and data pipelines that eliminate manual work for an
 <img src="assets/icons/sqlalchemy.svg" alt="SQLAlchemy" height="48" />
 <img src="assets/icons/duckdb.svg" alt="DuckDB" height="48" />
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-<img src="assets/icons/fetch.svg" alt="Fetch API" height="48" />
+<img src="https://skillicons.dev/icons?i=fastapi,supabase" alt="FastAPI, Supabase" />
+<img src="assets/icons/ollama.svg" alt="Ollama" height="48" />
 <img src="assets/icons/playwright.svg" alt="Playwright" height="48" />
 <img src="assets/icons/rag.svg" alt="RAG" height="48" />
 
@@ -63,6 +64,7 @@ I built backend automations and data pipelines that eliminate manual work for an
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,docker,bash" alt="AWS, Git, GitHub, Docker, CLI" />
+<img src="assets/icons/azuredevops.svg" alt="Azure DevOps" height="48" />
 <img src="assets/icons/claude.svg" alt="Claude Code" height="48" />
 <img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Notion, Obsidian" />
 
