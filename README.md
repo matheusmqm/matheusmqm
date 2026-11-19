@@ -2,15 +2,12 @@
 
 <h2>Matheus, Software Engineer (Backend & Data)</h2>
 
-<br/>
+<sub>📍 Brazil &nbsp;·&nbsp; 🎓 Computer Engineer @ IFCE</sub>
 
-![Location](https://img.shields.io/badge/Fortaleza%2C_Brazil-0F172A?style=for-the-badge&logo=googlemaps&logoColor=06B6D4)
-![Education](https://img.shields.io/badge/Computer_Engineering_%40_IFCE-0F172A?style=for-the-badge&logo=graduationcap&logoColor=06B6D4)
-![Role](https://img.shields.io/badge/Automation_Developer_%40_BTG_Pactual-0F172A?style=for-the-badge&logo=gitconnected&logoColor=06B6D4)
+<br/><br/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/matheusmqm"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=06B6D4&labelColor=0A66C2" alt="LinkedIn" /></a> <a href="mailto:matheus.mqm@outlook.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0F172A?style=for-the-badge&logo=microsoftoutlook&logoColor=06B6D4&labelColor=0078D4" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/matheusmqm"><img src="assets/icons/linkedin.svg" alt="LinkedIn" height="40" /></a>&nbsp;
+<a href="mailto:matheus.mqm@outlook.com"><img src="assets/icons/email.svg" alt="Email" height="40" /></a>
 
 </div>
 
@@ -18,30 +15,9 @@
 
 ## 👋 About
 
-I build **backend systems and data automations** that replace repetitive operational work with reliable, scheduled and maintainable code. I work end to end: understanding the problem, designing the solution, shipping it and keeping it running.
+I'm a Software Engineer and a Computer Engineering student at IFCE. I build full-stack applications, automations, ETL pipelines and AI Engineering solutions.
 
-<br/>
-
-## 📈 Impact
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h1>120+</h1>
-      <b>analyst hours saved</b><br/>
-      <sub>per month, through automation</sub>
-    </td>
-    <td align="center" width="50%">
-      <h1>15+</h1>
-      <b>projects in production</b><br/>
-      <sub>web apps, cron jobs, browser bots</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
+I like building solutions that go beyond just working: clean, testable code, architecture designed to be maintained and to scale, and reliable systems that other people can understand and evolve. I apply software engineering and system design best practices to everything I build, from the database to the API and the interface, always focused on real impact for the people who use it.
 
 <br/>
 
@@ -49,32 +25,45 @@ I build **backend systems and data automations** that replace repetitive operati
 
 ### Automation Developer · BTG Pactual
 
-- Built automations that consume files from a **data lake**, run **reconciliation** logic, generate **formatted output files** and execute on a **daily schedule**.
-- **15+ projects** across web applications, scheduled jobs and **Playwright** bots.
-- Cut manual operational effort for analyst teams by **120+ hours per month**.
+I built backend automations and data pipelines that eliminate manual work for analysts across different areas of the bank, covering the whole flow: from data extraction to delivery of the final file, validated and in the required format.
+
+- **Data pipelines and file generation:** developed solutions that extract data from the data lake, apply business and layout rules in Python and Pandas, and automatically generate standardized files to be sent to partners and external bodies.
+- **Data reconciliation and validation:** built routines that consume Excel spreadsheets and check the consistency of calculations and information, catching discrepancies before the data moves forward and replacing manual checks.
+- **Scheduled jobs and web applications:** developed processes that run daily via cron, and applications with a FastAPI, PostgreSQL and Amazon S3 back-end and a React front-end.
+- **Maintenance and evolution:** fixed issues in and improved 15+ team projects, including web applications, cron jobs and Playwright automation bots.
+
+**Result:** 250+ hours of manual work saved per month for the analysts of the areas served.
 
 <br/>
 
-## 🧰 Tech stack
+## 🧰 Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,postgres,fastapi,react,aws,git,github&theme=dark" alt="Core stack" />
+**Languages**
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,rust,c,cpp,js,ts" alt="Python, Rust, C, C++, JavaScript, TypeScript" />
+<img src="assets/icons/sql.svg" alt="SQL" height="48" />
 
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=06B6D4)
-![Playwright](https://img.shields.io/badge/Playwright-0F172A?style=for-the-badge&logo=playwright&logoColor=06B6D4)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-0F172A?style=for-the-badge&logo=awslambda&logoColor=06B6D4)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-0F172A?style=for-the-badge&logo=amazons3&logoColor=06B6D4)
-![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=06B6D4)
+<br/>
+
+**Data & Backend**
+
+<img src="assets/icons/pandas.svg" alt="Pandas" height="48" />
+<img src="assets/icons/numpy.svg" alt="NumPy" height="48" />
+<img src="assets/icons/sqlalchemy.svg" alt="SQLAlchemy" height="48" />
+<img src="assets/icons/duckdb.svg" alt="DuckDB" height="48" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+<img src="assets/icons/fetch.svg" alt="Fetch API" height="48" />
+<img src="assets/icons/playwright.svg" alt="Playwright" height="48" />
+<img src="assets/icons/rag.svg" alt="RAG" height="48" />
+
+<br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,docker,bash" alt="AWS, Git, GitHub, Docker, CLI" />
+<img src="assets/icons/claude.svg" alt="Claude Code" height="48" />
+<img src="https://skillicons.dev/icons?i=notion,obsidian" alt="Notion, Obsidian" />
 
 </div>
-
-| | |
-|---|---|
-| **Languages** | Python · SQL · JavaScript |
-| **Backend** | FastAPI · PostgreSQL · scheduled jobs (cron) |
-| **Data & automation** | Pandas · Playwright · data-lake file processing |
-| **Frontend** | React |
-| **Cloud** | AWS |
